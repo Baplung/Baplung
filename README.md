@@ -4,7 +4,7 @@ Mahasiswa Teknik Informatika UIN Maulana Malik Ibrahim Malang.
 
 ## 📱 Mobile Programming Practicum
 
-Kumpulan source code praktikum Flutter dari Modul 01 sampai UTS.
+Kumpulan source code praktikum Flutter dari Modul 01 sampai Modul 13, ditambah UTS.
 
 | No | Praktikum | Topik | Repository |
 |---:|:---:|---|---|
@@ -20,7 +20,8 @@ Kumpulan source code praktikum Flutter dari Modul 01 sampai UTS.
 | 10 | Modul 10 | GUI, Navigasi, API, dan JSON Serialization | [Buka Repository](https://github.com/Baplung/mpp-modul-10) |
 | 11 | Modul 11 | State Management dengan GetX | [Buka Repository](https://github.com/Baplung/mpp-modul-11) |
 | 12 | Modul 12 | Akses Lokasi dengan GPS | [Buka Repository](https://github.com/Baplung/mpp-modul-12) |
-| 13 | UTS | Ujian Tengah Semester | [Buka Repository](https://github.com/Baplung/mpp-uts) |
+| 13 | Modul 13 | CRUD Client-Server dengan HTTP | [Buka Repository](https://github.com/Baplung/mpp-modul-13) |
+| 14 | UTS | Ujian Tengah Semester | [Buka Repository](https://github.com/Baplung/mpp-uts) |
 
 ## 🛠️ Teknologi
 
